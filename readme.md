@@ -186,5 +186,3 @@ console.log(fruits);
 ```
 
 ---
-
-Avec ces bases, tu es prêt(e) à manipuler des tableaux en JavaScript ! Veux-tu des exercices pratiques ?
